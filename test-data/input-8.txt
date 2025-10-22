@@ -1,0 +1,5 @@
+GT4500,1,0,1,0
+TORPEDO,SINGLE   # should fire from primary
+TORPEDO,SINGLE   # should fire from secondary
+TORPEDO,SINGLE   # should fail, both stores are empty
+TORPEDO,SINGLE   # should still fail
