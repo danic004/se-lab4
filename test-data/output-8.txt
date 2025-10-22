@@ -1,3 +1,4 @@
+SUCCESS  # <- Load the ammo
 SUCCESS  # <- First fire from primary
 SUCCESS  # <- Then fire from secondary
 FAILURE  # <- No torpedoes left in either store
